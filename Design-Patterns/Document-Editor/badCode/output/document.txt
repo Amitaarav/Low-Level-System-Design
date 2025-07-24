@@ -1,0 +1,4 @@
+Hello, this is a document editor.
+[Image: image1.png]
+This is an image.
+[Image: image2.jpg]
